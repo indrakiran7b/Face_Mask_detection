@@ -1,0 +1,5 @@
+*
+*/
+!.gitignore
+!face_mask_detection.ipynb
+!README.md
